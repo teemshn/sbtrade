@@ -1,0 +1,4 @@
+#Wed Dec 18 00:52:13 KST 2019
+base.0=/Users/admin/Documents/naviTest/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex

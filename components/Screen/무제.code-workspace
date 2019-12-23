@@ -1,0 +1,17 @@
+{
+  "folders": [
+	{
+		"name": "workspace — (Remote)",
+		"uri": "sftp://dev/"
+	},
+	{
+		"path": "/Users/admin/Documents/customApp"
+	},
+	{
+		"path": "/Users/admin/Documents/naviTest"
+	}
+],
+  "settings": {
+    "java.configuration.updateBuildConfiguration": "automatic"
+  }
+}
