@@ -1,10 +1,1 @@
-#import "REAValueNode.h"
-
-@interface REAParamNode : REAValueNode
-
-- (void)beginContext:(NSNumber*) ref
-          prevCallID:(NSNumber*) prevCallID;
--(void) endContext;
-
-@end
-
+../../../../../node_modules/react-native-reanimated/ios/Nodes/REAParamNode.h
