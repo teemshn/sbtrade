@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/admin/Documents/naviTest/ios/Pods/Target\ Support\ Files/Folly/Folly-dummy.m \
-  /Users/admin/Documents/naviTest/ios/Pods/Target\ Support\ Files/Folly/Folly-prefix.pch
+  /Users/admin/Documents/sbtrade/ios/Pods/Target\ Support\ Files/Folly/Folly-dummy.m \
+  /Users/admin/Documents/sbtrade/ios/Pods/Target\ Support\ Files/Folly/Folly-prefix.pch

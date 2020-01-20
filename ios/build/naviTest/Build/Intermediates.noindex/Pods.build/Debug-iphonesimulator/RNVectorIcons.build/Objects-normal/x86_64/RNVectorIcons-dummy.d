@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/admin/Documents/naviTest/ios/Pods/Target\ Support\ Files/RNVectorIcons/RNVectorIcons-dummy.m \
-  /Users/admin/Documents/naviTest/ios/Pods/Target\ Support\ Files/RNVectorIcons/RNVectorIcons-prefix.pch
+  /Users/admin/Documents/sbtrade/ios/Pods/Target\ Support\ Files/RNVectorIcons/RNVectorIcons-dummy.m \
+  /Users/admin/Documents/sbtrade/ios/Pods/Target\ Support\ Files/RNVectorIcons/RNVectorIcons-prefix.pch

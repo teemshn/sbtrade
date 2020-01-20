@@ -5,6 +5,7 @@ INJECTED from /Users/admin/Documents/sbtrade/android/app/src/main/AndroidManifes
 INJECTED from /Users/admin/Documents/sbtrade/android/app/src/main/AndroidManifest.xml:1:1-26:12
 INJECTED from /Users/admin/Documents/sbtrade/android/app/src/main/AndroidManifest.xml:1:1-26:12
 MERGED from /Users/admin/Documents/sbtrade/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-linear-gradient] /Users/admin/Documents/sbtrade/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-gesture-handler] /Users/admin/Documents/sbtrade/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-reanimated] /Users/admin/Documents/sbtrade/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-screens] /Users/admin/Documents/sbtrade/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
@@ -132,6 +133,8 @@ uses-sdk
 INJECTED from /Users/admin/Documents/sbtrade/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/admin/Documents/sbtrade/android/app/src/main/AndroidManifest.xml
 INJECTED from /Users/admin/Documents/sbtrade/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-linear-gradient] /Users/admin/Documents/sbtrade/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /Users/admin/Documents/sbtrade/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-gesture-handler] /Users/admin/Documents/sbtrade/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-gesture-handler] /Users/admin/Documents/sbtrade/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-reanimated] /Users/admin/Documents/sbtrade/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41

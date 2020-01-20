@@ -1,2 +1,2 @@
 dependencies: \
-  /Users/admin/Documents/naviTest/ios/Pods/Target\ Support\ Files/Pods-naviTestTests/Pods-naviTestTests-dummy.m
+  /Users/admin/Documents/sbtrade/ios/Pods/Target\ Support\ Files/Pods-naviTestTests/Pods-naviTestTests-dummy.m
